@@ -1,6 +1,6 @@
 # go-gorm-mk1-showcase
 
-A showcase project demonstrating usage of [GORM](https://gorm.io/) with Go, focusing on essential database operations within a simple web server built with [Fiber](https://gofiber.io/).
+A showcase project demonstrating usage of [GORM](https://gorm.io) with Go, focusing on essential database operations within a simple web server built with [Fiber](https://gofiber.io).
 
 This project implements CRUD operations on a PostgreSQL database, covering fundamental usage patterns for GORM in Go, and provides a lightweight API interface with basic HTML templating.
 
@@ -119,4 +119,4 @@ GET /insert-row: Inserts a new record into the database and returns the inserted
 
 ## License
 
-[MIT]()
+[MIT](https://choosealicense.com/licenses/mit)
