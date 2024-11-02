@@ -76,10 +76,10 @@ In gorm/gorm.go, configure the database connection parameters:
 ```go
 var (
     host     string = "example" // Your host (example: localhost)
-	user     string = "example" // Your user (example: postgres)
-	password string = "example" // Your password (optional)
-	dbname   string = "example" // Your DB name (example: postgres)
-	sslmode  string = "example" // SSL (enable/disable)
+    user     string = "example" // Your user (example: postgres)
+    password string = "example" // Your password (optional)
+    dbname   string = "example" // Your DB name (example: postgres)
+    sslmode  string = "example" // SSL (enable/disable)
 )
 ```
 
