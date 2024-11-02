@@ -10,11 +10,11 @@ import (
 // VARIABLES
 
 var (
-	host     string = "localhost"  // Your host (example: localhost)
-	user     string = "xoticdsign" // Your user (example: postgres)
-	password string = "188696"     // Your password (optional)
-	dbname   string = "test"       // Your DB name (example: postgres)
-	sslmode  string = "disable"    // SSL (enable/disable)
+	host     string // Your host (example: localhost)
+	user     string // Your user (example: postgres)
+	password string // Your password (optional)
+	dbname   string // Your DB name (example: postgres)
+	sslmode  string // SSL (enable/disable)
 )
 
 type Purchase struct {
