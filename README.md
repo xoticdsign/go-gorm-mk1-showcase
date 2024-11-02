@@ -6,6 +6,8 @@ This project implements CRUD operations on a PostgreSQL database, covering funda
 
 ## Project Structure
 
+Simplified for showcasing purposes.
+
 ```
 go-gorm-mk1-showcase/
 ├── gorm/
